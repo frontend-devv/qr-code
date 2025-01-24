@@ -70,4 +70,4 @@ For creating responsive layouts, I used:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MarinaIvantsova)
+- Frontend Mentor - [@frontend-dev](https://www.frontendmentor.io/profile/MarinaIvantsova)
