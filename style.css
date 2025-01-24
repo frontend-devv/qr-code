@@ -29,7 +29,7 @@ body {
   max-width: 32rem;
   background-color: var(--white);
   border-radius: 2rem;
-  padding: 1.6rem;
+  padding: 1.6rem 1.6rem 4rem 1.6rem;
   box-shadow: 0 2.5rem 2.5rem 0 rgba(0, 0, 0, 0.05);
 }
 
